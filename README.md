@@ -1,2 +1,3 @@
-# vamos-programar
-Vamos programar? É um projeto de ensino e mentoria para a popularização da programação, visando servir como base para pessoas que queiram ingressar na área de desenvolvimento de software.
+# Vamos Programar?
+
+**É um projeto de ensino e mentoria para a popularização da programação, visando servir como base para pessoas que queiram ingressar na área de desenvolvimento de software.**
