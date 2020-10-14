@@ -19,7 +19,7 @@ Iremos abordar temas basiscos da programação, até temas complexos, dando uma 
 8. Introdução ao C#.
 9. Criando uma API com .NET Core
 10. Introdução a banco de dados.
-11. Introdução ao EF .Core.
+11. Introdução ao EF Core.
 12. Projeto desafio.
 13. Finalização.
  
