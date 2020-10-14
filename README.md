@@ -21,4 +21,4 @@ Iremos abordar temas basiscos da programação, até temas complexos, dando uma 
 10. Introdução a banco de dados.
 11. Introdução ao EF .Core.
 12. Projeto desafio.
-
+13. Finalização.
