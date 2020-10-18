@@ -34,9 +34,9 @@ Na pagina inicial do [projeto]( https://github.com/Dervanil/vamos-programar), cl
 1- No seu computador, escolha uma pasta qualquer, de preferencia uma mais próxima da raiz, por exemplo, 'C:\\' ou 'D:\\', abra o prompt de comando e navegue até a pasta, ou digite 'cmd' e aperte enter na barra de endereço do Explorer uma janela do prompt será aberta na pasta atual. Digite o seguinte comando:
 
 ```cmd
-git clone https://github.com/Dervanil/vamos-programar.git
+git clone https://github.com/[SEU USUÁRIO]/vamos-programar.git
 ```
-
+Lembre de alterar a url para o seu usuário antes.
 Pronto agora você clonou o fonte do projeto para sua maquina e está pronto para começar.
 
 
