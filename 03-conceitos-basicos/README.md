@@ -23,6 +23,12 @@ Agora basta criar uma conta no [Github](https://github.com/join?ref_cta=Sign+up&
 
 Pronto para iniciar os exercícios basta 'clonar' o projeto para sua maquina, que nada mais é que fazer uma cópia do fonte mas essa cópia terá suas alterações controladas pelo Github, sempre que houver uma alteração é possível atualizar a sua cópia local através de um comando (aprenderemos mais sobre comandos nas outras lições).
 
+## Criando a sua cópia do projeto
+
+Na pagina inicial do [projeto]( https://github.com/Dervanil/vamos-programar), clique em 'Fork', assim o Github fará uma cópia do projeto na sua conta.
+
+![Fork](https://github.com/Dervanil/vamos-programar/tree/main/03-conceitos-basicos/images/fork-project.jpg)
+
 ## Clonando o projeto
 
 1- No seu computador, escolha uma pasta qualquer, de preferencia uma mais próxima da raiz, por exemplo, 'C:\\' ou 'D:\\', abra o prompt de comando e navegue até a pasta, ou digite 'cmd' e aperte enter na barra de endereço do Explorer uma janela do prompt será aberta na pasta atual. Digite o seguinte comando:
