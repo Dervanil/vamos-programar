@@ -27,7 +27,7 @@ Pronto para iniciar os exercícios basta 'clonar' o projeto para sua maquina, qu
 
 Na pagina inicial do [projeto]( https://github.com/Dervanil/vamos-programar), clique em 'Fork', assim o Github fará uma cópia do projeto na sua conta.
 
-![Fork Project](/images/fork-project.jpg?raw=true "Fork Project")
+![Fork Project](/03-conceitos-basicos/images/fork-project.jpg?raw=true "Fork Project")
 
 ## Clonando o projeto
 
