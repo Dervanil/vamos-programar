@@ -25,16 +25,20 @@ Pronto para iniciar os exercícios basta 'clonar' o projeto para sua maquina, qu
 
 ## Clonando o projeto
 
-Acesse o link do [projeto](https://github.com/Dervanil/vamos-programar) no Github e siga as instruções:
-
-1- Cópie a url do projeto.
-
-![Url](https://github.com/Dervanil/vamos-programar/blob/main/03-conceitos-basicos/images/url.jpg) 
-
-2- No seu computador, escolha uma pasta qualquer, de preferencia uma mais próxima da raiz, por exemplo, 'C:\\' ou 'D:\\', abra o prompt de comando e navegue até a pasta, ou digite 'cmd' e aperte enter na barra de endereço do Explorer uma janela do prompt será aberta na pasta atual. Digite o seguinte comando:
+1- No seu computador, escolha uma pasta qualquer, de preferencia uma mais próxima da raiz, por exemplo, 'C:\\' ou 'D:\\', abra o prompt de comando e navegue até a pasta, ou digite 'cmd' e aperte enter na barra de endereço do Explorer uma janela do prompt será aberta na pasta atual. Digite o seguinte comando:
 
 ```cmd
 git clone https://github.com/Dervanil/vamos-programar.git
 ```
 
 Pronto agora você clonou o fonte do projeto para sua maquina e está pronto para começar.
+
+
+## Onde Programar?
+
+Para programas podemos usar diversos programas, inclusive bloco de notas, mas para que tenhamos produtividade no dia dia, existem ferramentas dedicadas chamadas de IDE do inglês 'Integrated Development Environment', existem varias IDEs no mercado, gratuitas ou pagas, com varias funcionalidades diferentes.
+
+
+## Visual Studio Code
+
+Uma das IDEs mais usadas para desenvolvimento Web é o Visual Studio Code da Microsoft que é gratuita. Para inicia [baixe](https://code.visualstudio.com/) e instale na sua maquina. Para saber mais veja os vídeos [introdutórios](https://code.visualstudio.com/docs/getstarted/introvideos).
