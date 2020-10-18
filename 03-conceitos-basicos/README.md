@@ -29,7 +29,7 @@ Acesse o link do [projeto](https://github.com/Dervanil/vamos-programar) no Githu
 
 1- Cópie a url do projeto.
 
-![Url](.\images\url.jpg) 
+![Url](https://github.com/Dervanil/vamos-programar/blob/main/03-conceitos-basicos/images/url.jpg) 
 
 2- No seu computador, escolha uma pasta qualquer, de preferencia uma mais próxima da raiz, por exemplo, 'C:\\' ou 'D:\\', abra o prompt de comando e navegue até a pasta, ou digite 'cmd' e aperte enter na barra de endereço do Explorer uma janela do prompt será aberta na pasta atual. Digite o seguinte comando:
 
