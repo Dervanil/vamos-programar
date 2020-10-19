@@ -10,18 +10,10 @@ Iremos abordar temas básicos da programação, até temas complexos, dando uma 
 	1. Orientações gerais sobre o conteúdo e mentoria.		
 2. Breve introdução a computação e a linguagens de programação.
 	1. Como tudo começou.
-	2. O que é uma linguagem de programação seus tipos e usos.      
-3. Conceitos básicos de programação.
-4. Iniciando com HTML e CSS.
-5. Introdução ao Javascript.
-6. Javascript frameworks e bibliotecas
-7. Criando seu primeiro site com React.
-8. Introdução ao C#.
-9. Criando uma API com .NET Core
-10. Introdução a banco de dados.
-11. Introdução ao EF Core.
-12. Projetos.
-13. Métodos Ágeis.
-14. Visão Geral do mercado.
-15. Finalização.
- 
+	2. O que é uma linguagem de programação seus tipos e usos.     
+3. Primeira lição	 
+	1. Conceitos básicos de programação.
+	2. Iniciando com HTML e CSS.
+	3. Introdução ao Javascript.
+	4. Projetos
+4. Finalizando
