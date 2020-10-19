@@ -1,12 +1,77 @@
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  
-  body {
-    background: #f2f2f2;
-    overflow: auto;
-  }
-  
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif; /* Define a fonte */
+}
+
+body {
+  background-color: #f2f2f2; /* Troca a cor do fundo */
+  overflow: auto;
+  padding: 36px; /* Define um espaço dentro do elemento (tag) */
+}
+
+h1 {
+  text-align: center; /* Alina o texto ao centro */
+  margin-bottom: 16px;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+section {
+  background: #fff;
+  padding: 8px;
+  width: 50%; /* Define a largura */
+  height: auto; /* Define a largura */
+  overflow: auto;
+}
+
+input {
+  padding: 4px;
+  height: 28px;
+  width: 80%;
+  border: #9d9d9d solid 1px; /* Define a borda do elemento */
+  border-radius: 4px; /* Arredonda a borda do elemento */
+}
+
+button {
+  padding: 4px;
+  border: 0;
+  height: 28px;
+  width: 18%;
+  border-radius: 4px;
+  background-color: #0e25a7;
+  color: #fff;
+}
+
+ul {
+  list-style-position: inside;
+  list-style-type: decimal;
+  text-align: left;
+  margin-top: 8px;
+  padding: 8px;
+}
+
+li {
+  cursor: pointer;
+  padding-bottom: 8px;
+}
+
+li:hover { /* Troca o cursor do mouse quando passa por cima da lista (hover) */
+  cursor: pointer;
+}
+
+footer {
+  padding: 24px;
+  font-weight: 700; /* Adiciona negrito ao texto */
+  text-align: center;
+}

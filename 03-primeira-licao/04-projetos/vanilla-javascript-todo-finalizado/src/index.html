@@ -1,16 +1,26 @@
-<header>
-  <h1>TODO</h1>
-</header>  
-<main class="container">
-  <section>   
-      <h2>Adicione os TODOs</h2>
-      <input type="text" name="add" placeholder="todo-item"/>
-      <input type="button" value="add"/>
-      <ul id="list_item">
-        <li>Terminar a tarefa</li>
-      </ul>
-  </section>
-</main>
-<footer>
-  <p>Vamos programar?</p>
-</footer>
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <title>TODO - Primeiro projeto</title>
+    <link rel="stylesheet" href="assets/styles.css">
+    <script type="text/javascript" src="assets/todo.js"></script>
+  </head>
+  <body>
+    <header>
+      <h1>TODO</h1>
+  </header>  
+  <main>
+      <section>   
+          <h2>Adicione os TODOs</h2>
+          <input type="text" name="todoText" placeholder="O que você quer fazer?" id="todo-text"/>
+          <button name="button" onclick="add_item()">Adicionar</button>
+          <ul id="items">          
+          </ul>
+      </section>
+  </main>
+  <footer>
+      <p>Vamos programar?</p>
+  </footer>
+  </body>
+</html>
