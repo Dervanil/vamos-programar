@@ -8,12 +8,11 @@ Abra a pasta 'vanilla-javascript-todo' no Visual Studio Code.
 
 ![Visual Studio Code](/03-primeira-licao/04-projetos/images/vanilla-javascript-todo-01.jpg?raw=true "Visual Studio Code")
 
-Feito isso você tem agora a estrutura inicial para iniciar o seu primeiro projeto. Para ir acompanhando as alterações basta abrir o arquivo 'index.html' em qualquer browser.
-
+Feito isso você tem agora a estrutura inicial para o seu primeiro projeto. Para ir acompanhando as alterações basta abrir o arquivo 'index.html' em qualquer browser, lembre-se de atualizar a página para ver as alterações.
 
 ## Passo a passo
 
-Neste projeto iremos criar algo bem comum um TODO, que é bem simples mas possui que é um bom começo.
+Neste projeto iremos criar algo bem comum um TODO, que nada mais é que uma lista de tarefas, sendo bem simples mas é um bom começo.
 
 1- Abra o arquivo html em 'src/index.html' e cole o trecho abaixo:
 

@@ -2,7 +2,7 @@
 
 ## O que é Javascript?
 
-Javascript é uma linguagem de programação que permite adicionar comportamentos adicionais ao HTML e CSS, álem de ter uma série de outras aplicações, inicialmente iremos nos focar em uso Web.
+Javascript é uma linguagem de programação que permite adicionar comportamentos ao HTML e CSS, álem de ter uma série de outras aplicações, inicialmente iremos nos focar em seu uso na Web.
 
 Com Javascript é possível manipular o HTML e o CSS, tornando as paginas Web dinâmicas.
 
