@@ -43,11 +43,11 @@ Aqui nós temos a estrutura básica de uma pagina HTML.
   }
 ```
 
-Aqui usamos '\*' que é um seletor que aplica o que definimos para todos os elementos na pagina, neste caso estamos trocando a fonte.
+Aqui usamos '\*' que é um seletor que aplica as propriedades que definimos para todos os elementos na pagina, neste caso estamos trocando a fonte.
 
-usando o seletor 'body' podemos aplicar estilos a tag 'body', estamos alterando a cor de fundo da pagina para cinza.
+Usando o seletor 'body' podemos aplicar estilos a tag 'body', estamos alterando a cor de fundo da pagina para cinza.
 
-3- Atualize o HTML para referenciar o CSS, para isso atualize a tag 'head' do arquivo HTML:
+3- Atualize o HTML para referenciar o CSS, para isso altere a tag 'head' do arquivo HTML:
 
 ```HTML
 <head>
@@ -69,7 +69,7 @@ A tag 'link' indica que arquivo deve ser carregado, assim o nosso CSS será apli
     <section>
         <h2>Adicione os TODOs</h2>
         <input type="text" name="add" placeholder="O que você quer fazer?"/>
-        <input type="button" value="add"/>
+         <button name="button">Adicionar</button>
         <ul>
         </ul>
     </section>
@@ -79,11 +79,11 @@ A tag 'link' indica que arquivo deve ser carregado, assim o nosso CSS será apli
 </footer>
 ```
 
-Aqui nós definimos um titulo 'h1', dentro de uma tag 'head' que deve ser usada para definir um cabeçalho para a pagina, com navegação e logo, por exemplo.
+Aqui nós definimos um titulo 'h1', dentro de uma tag 'head' que deve ser usada para definir um cabeçalho para a pagina, com navegação (menu) e logo, por exemplo.
 
 Em seguida a tag 'main' que define o conteúdo principal dentro do 'body', esta tag só deve aparecer uma única vez na pagina. Dentro da tag 'section' temos outro cabeçalho 'h2', mas dessa vez com uma importância menor.
 
-As próximas tags são: 'input' e 'ul', veja que temos dois 'inputs' mas com o atributo 'type' com o valor diferente sendo 'text' que permite que digite algo na pagina e 'button' que mostra um botão na pagina.
+As próximas tags são: 'input', 'ul' e 'button', o 'input' com o atributo 'type' igual a 'text' permite que digitemos algo na pagina e 'button' que mostra um botão na pagina, permitindo que uma ação seja executada.
 
 Por fim as tags 'ul' e 'li' que são usadas para exibir uma lista de itens na pagina.
 
@@ -91,7 +91,7 @@ Neste ponto a sua pagina deve estar assim:
 
 ![Projeto inicial](/03-primeira-licao/04-projetos/images/vanilla-javascript-todo-02.jpg?raw=true "Projeto inicial")
 
-5- Precisamos deixar mais bonita, para isso abra o arquivo 'src/assets/styles.css' e adicione o trecho a seguir:
+5- Precisamos deixar ela mais bonita, para isso abra o arquivo 'src/assets/styles.css' e adicione o trecho a seguir:
 
 ```CSS
 * {
@@ -192,7 +192,7 @@ Altere novamente a tag head para adicionar o Javascript, assim como fizemos com 
 </head>
 ```
 
-Para que possamos adicionar a interação entre o html e Javascript iremos alterar alguns elemento definindo o id, que nada mais é que uma forma de fazer com o que possamos manipular os elementos e um atributo no botão para que quando clicarmos nele o javascript seja executado.
+Para que possamos adicionar a interação entre o html e Javascript iremos alterar alguns elemento definindo o 'id', que nada mais é que uma forma de fazer com o que possamos manipular os elementos e um atributo no botão para que quando clicarmos nele o javascript seja executado.
 
 ```HTML
 <main>
