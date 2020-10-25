@@ -12,8 +12,8 @@ Não importa se trabalhamos sozinhos ou em equipe, imagine o que aconteceria se 
 
 É ai que entra o controle de fonte. Ele permite que seja versionado e armazenado em outro local. 
 
-O controle de fontes auxiliará na gestão e controle destas alterações permitindo ate inclusive voltar para uma versão anterior se for necessário.
-Centralizando o controle, assim uma equipe podemos ter varias pessoas trabalhando no mesmo projeto, cada uma em uma parte ou até mesmo alterando o mesmo arquivo. 
+O controle de fonte nos auxilia na gestão e controle das alterações permitindo inclusive voltar para uma versão anterior se for necessário.
+Assim uma equipe pode ter várias pessoas trabalhando no mesmo projeto, cada uma em uma parte ou até mesmo alterando o mesmo arquivo. Centralizando assim o controle do código e distribuindo suas alterações a todos da equipe, por isso quando se perde o fonte é possível recuperá-lo.
 
 ## Git e Github
 
