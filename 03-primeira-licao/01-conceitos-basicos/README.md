@@ -1,12 +1,19 @@
 # Conceitos básicos
 
+## O que é código fonte?
+
+É tudo aquilo que escrevemos em uma linguagem de programação (conforme aprendemos no modulo anterior) que pode ser interpretada/compilada pelo computador criando um programa.
+
 ## Controle de código fonte 
 
-Quando trabalhamos com desenvolvimento, algo que é comum a todas as linguagens e plataformas é a necessidade de se gerenciar o que estamos fazendo, ou seja, o código fonte.
+Quando trabalhamos com desenvolvimento, algo que é comum a todas as linguagens e plataformas é a necessidade de se gerenciar o que estamos fazendo.
 
-Não importa se estamos trabalhando sozinhos ou em equipe, imagine o que aconteceria se por um defeito em nosso computador, perdêssemos o que estamos fazendo.
+Não importa se trabalhamos sozinhos ou em equipe, imagine o que aconteceria se por um defeito no computador, perdêssemos o código fonte?
 
-É ai que entra o controle de fonte, que permite que ele seja versionado e armazenado em outro local. Centralizando o controle, assim uma equipe podemos ter varias pessoas trabalhando no mesmo projeto, cada uma em uma parte ou até mesmo alterando o mesmo arquivo. O controle de fontes auxiliará na gestão e controle destas alterações permitindo ate inclusive voltar para uma versão anterior se for necessário.
+É ai que entra o controle de fonte. Ele permite que seja versionado e armazenado em outro local. 
+
+O controle de fontes auxiliará na gestão e controle destas alterações permitindo ate inclusive voltar para uma versão anterior se for necessário.
+Centralizando o controle, assim uma equipe podemos ter varias pessoas trabalhando no mesmo projeto, cada uma em uma parte ou até mesmo alterando o mesmo arquivo. 
 
 ## Git e Github
 
